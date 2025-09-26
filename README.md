@@ -1,3 +1,3 @@
 # Kung programming language IDE
 
-![KungIDE](https://github.com/user-attachments/assets/05671342-e094-47af-893a-be3caa8196e3)
+![KungIDE](https://github.com/user-attachments/assets/4924fd77-3ea8-4b1e-84a2-2e7b2aed6cd9)
